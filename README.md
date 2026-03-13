@@ -1,6 +1,6 @@
 Hi there
 
-<!--
+
 <h1 align="center">Hi 👋, I'm KamaliyaLakshmana</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
@@ -29,4 +29,4 @@ Hi there
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamaliyalakshmana&show_icons=true&locale=en" alt="kamaliyalakshmana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamaliyalakshmana&" alt="kamaliyalakshmana" /></p>
->
+
